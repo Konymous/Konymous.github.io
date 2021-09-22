@@ -311,10 +311,11 @@ HTMLActuator.prototype.clearContainer = function (container) {
 };
 
 //HTMLActuator.prototype.tileHTML = ["菜鸟", "入门", "码畜", "码奴", "码农", "IT民工", "IT工程师", "IT人才", "IT精英", "IT大哥", "IT领袖"];
-//HTMLActuator.prototype.tileHTML = ["2", "4", "8", "16", "32", "64", "128", "256", "512", "1024", "2048"];
+HTMLActuator.prototype.tileHTML = ["2", "4", "8", "16", "32", "64", "128", "256", "512", "1024", "2048"];
 //HTMLActuator.prototype.tileHTML = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "win"];
 //HTMLActuator.prototype.tileHTML = ["工兵", "班长", "排长", "连长", "营长", "团长", "旅长", "师长", "军长", "司令", "军旗"];
-HTMLActuator.prototype.tileHTML = ["学前", "小学", "初中", "中考", "高中", "高考", "本科", "考研", "硕士", "博士", "博后", "讲师", "教授", "院士"];
+//HTMLActuator.prototype.tileHTML = ["学前", "小学", "初中", "中考", "高中", "高考", "本科", "考研", "硕士", "博士", "博后", "讲师", "教授", "院士"];
+//HTMLActuator.prototype.tileHTML = ["医学生", "住院医师", "主治医师","副主任医师", "主任医师"];
 
 HTMLActuator.prototype.addTile = function (tile) {
   var self = this;
