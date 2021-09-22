@@ -1,6 +1,6 @@
 # Site settings
 title: Ziyi Zhou's Blog
-SEOTitle: 周孜奕的博客 | Wenlong Zhou's Blog
+SEOTitle: 周孜奕的博客 | Ziyi Zhou's Blog
 header-img: img/bg/home.jpg
 email: Ziyi_zhou@foxmail.com
 description: ""
@@ -54,7 +54,7 @@ ga_track_id: 'UA-33382825-4'            # Format: UA-xxxxxx-xx
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "修行，入世"
+sidebar-about-description: "修身、齐家、治国、平天下"
 sidebar-avatar: /img/avatar.jpg
 
 
