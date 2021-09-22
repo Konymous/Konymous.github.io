@@ -1,25 +1,25 @@
 # Site settings
-title: Wenlong Shen's Blog
-SEOTitle: 沈文龙的博客 | Wenlong Shen's Blog
+title: Ziyi Zhou's Blog
+SEOTitle: 周孜奕的博客 | Wenlong Zhou's Blog
 header-img: img/bg/home.jpg
-email: shenwl1988@gmail.com
+email: Ziyi_zhou@foxmail.com
 description: ""
 keyword: ""
-url: "https://wenlongshen.github.io"              # your host, for absolute URL
+url: "https://ZiyiZhou.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # SNS settings
 RSS: false
-weibo_username:    2517170031 # llArcherll
-linkedin_username: wenlong-shen-2247a333
+#weibo_username:    2517170031 # llArcherll
+#linkedin_username: wenlong-shen-2247a333
 #twitter_username:  
 #facebook_username:  
-zhihu_username:     wenlongshen
-github_username:    WenlongShen
-dockerhub_username:  wenlongshen
-kaggle_username:  shenwenlong
-researchgate_username: Wenlong_Shen2
+zhihu_username:     地西泮
+github_username:    Konymous
+#dockerhub_username:  wenlongshen
+#kaggle_username:  shenwenlong
+#researchgate_username: Wenlong_Shen2
 
 
 # Build settings
@@ -69,19 +69,19 @@ service-worker: true
 
 # Contact
 contact: true
-email: shenwl1988@163.com
+email: Ziyi_zhou@foxmail.com
 
 # Comments
 comments:
   disqus: false
-  disqus_username: https-wenlongshen-github-io
+  disqus_username: https-ZiyiZhou-github-io
 
   gitalk: true
-  gitalk_clientID: '6efc0e62a79258590bc8'
-  gitalk_Secret: '39ed240369e743083f46f5855bf7869fe079d4d3'
-  gitalk_repo: 'wenlongshen.github.io'
-  gitalk_owner: 'wenlongshen'
-  gitalk_admin: ['wenlongshen']
+  gitalk_clientID: '6efc0e62a79258590bc8????'
+  gitalk_Secret: '39ed240369e743083f46f5855bf7869fe079d4d3????'
+  gitalk_repo: 'ZiyiZhou.github.io'
+  gitalk_owner: 'ZiyiZhou'
+  gitalk_admin: ['ZiyiZhou']
   distractionFreeMode: true
 
 
