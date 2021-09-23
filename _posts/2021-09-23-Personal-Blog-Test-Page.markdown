@@ -19,9 +19,9 @@ tags: Blog 测试 2021
 出生地：上海  <br>
 就读学校：上海中医药大学  <br>
 专业：中医学  <br>
-(<br>)
+<br>
 <p align="right">秋分23：59夜</p>
 
-<center>“月是故乡明。”</center>
+<center><font size=7 color=red face=“月是故乡明。”>宋体</font></center>
 
 
