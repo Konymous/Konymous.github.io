@@ -22,6 +22,6 @@ tags: Blog 测试 2021
 <br>
 <p align="right">秋分23：59夜</p>
 
-<center><font size=7 color=red face=“月是故乡明。”>宋体</font></center>
+<center><font size=7 color=red face=宋体>“月是故乡明。”</font></center>
 
 
