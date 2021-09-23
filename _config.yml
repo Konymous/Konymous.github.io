@@ -15,7 +15,7 @@ RSS: false
 #linkedin_username: wenlong-shen-2247a333
 #twitter_username:  
 #facebook_username:  
-zhihu_username:     地西泮
+zhihu_username:     di-xi-pan-24
 github_username:    Konymous
 #dockerhub_username:  wenlongshen
 #kaggle_username:  shenwenlong
@@ -76,9 +76,9 @@ comments:
   disqus: false
   disqus_username: https-ZiyiZhou-github-io
 
-  gitalk: true
-  gitalk_clientID: '6efc0e62a79258590bc8????'
-  gitalk_Secret: '39ed240369e743083f46f5855bf7869fe079d4d3????'
+  gitalk: false
+  gitalk_clientID: '6efc0e62a79258590bc8'
+  gitalk_Secret: '39ed240369e743083f46f5855bf7869fe079d4d3'
   gitalk_repo: 'ZiyiZhou.github.io'
   gitalk_owner: 'ZiyiZhou'
   gitalk_admin: ['ZiyiZhou']
