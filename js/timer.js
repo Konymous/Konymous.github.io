@@ -1,7 +1,7 @@
 function getRTime(){
 	var NowTime = new Date();
 	// 相识
-	var StartTimeK = new Date('2016/02/22 08:00:00');
+	var StartTimeK = new Date('2021/09/23 23:59:59');
 	var k = NowTime.getTime() - StartTimeK.getTime();
 	var yk = NowTime.getFullYear() - StartTimeK.getFullYear() + 1;
 	var dk = Math.floor(k/1000/60/60/24);
