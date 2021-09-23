@@ -76,9 +76,9 @@ comments:
   disqus: false
   disqus_username: https-ZiyiZhou-github-io
 
-  gitalk: false
-  gitalk_clientID: '6efc0e62a79258590bc8'
-  gitalk_Secret: '39ed240369e743083f46f5855bf7869fe079d4d3'
+  gitalk: true
+  gitalk_clientID: '3163f73e9b3e761af4c6'
+  gitalk_Secret: '9fcd505b24bf6025be1d535af320d7c522d9e5fa'
   gitalk_repo: 'ZiyiZhou.github.io'
   gitalk_owner: 'ZiyiZhou'
   gitalk_admin: ['ZiyiZhou']
