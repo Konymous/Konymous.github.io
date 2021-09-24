@@ -76,12 +76,12 @@ comments:
   disqus: false
   disqus_username: https-konymous-github-io
 
-  gitalk: true 
+  gitalk: True 
   gitalk_clientID: '3163f73e9b3e761af4c6'
   gitalk_Secret: '9fcd505b24bf6025be1d535af320d7c522d9e5fa'
   gitalk_repo: 'konymous.github.io'
   gitalk_owner: 'Konymous'
-  gitalk_admin: ['Ziyi_Zhou']
+  gitalk_admin: ['Konymous']
   distractionFreeMode: true
 
 
