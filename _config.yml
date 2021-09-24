@@ -5,7 +5,7 @@ header-img: img/bg/home.jpg
 email: Ziyi_zhou@foxmail.com
 description: ""
 keyword: ""
-url: "https://Ziyi_Zhou.github.io"              # your host, for absolute URL
+url: "https://Konymous.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -74,12 +74,12 @@ email: Ziyi_zhou@foxmail.com
 # Comments
 comments:
   disqus: false
-  disqus_username: https-Ziyi_Zhou-github-io
+  disqus_username: https-Konymous-github-io
 
   gitalk: true
   gitalk_clientID: '3163f73e9b3e761af4c6'
   gitalk_Secret: 'c773a1a5efcc6ec44507f431f39484472e196adb'
-  gitalk_repo: 'Ziyi_zhou.github.io'
+  gitalk_repo: 'Konymous.github.io'
   gitalk_owner: 'Konymous'
   gitalk_admin: ['Konymous']
   distractionFreeMode: true
